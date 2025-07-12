@@ -1,2 +1,2 @@
-What I have learned in this course
+What I have learned from this course
 I learned git github and linux
